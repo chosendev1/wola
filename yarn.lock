@@ -5450,9 +5450,9 @@ handlebars-wax@^5.0.0:
     object-assign "^4.1.1"
     require-glob "^3.2.0"
 
-handlebars@^4.0.10, handlebars@^4.0.11, handlebars@^4.0.6:
-  version "4.5.1"
-  resolved "https://registry.yarnpkg.com/handlebars/-/handlebars-4.5.1.tgz#8a01c382c180272260d07f2d1aa3ae745715c7ba"
+handlebars@^4.0.10, handlebars@^4.0.6, handlebars@^4.5.3:
+  version "4.5.3"
+  resolved "https://registry.yarnpkg.com/handlebars/-/handlebars-4.5.3.tgz#5cf75bd8714f7605713511a56be7c349becb0482"
   dependencies:
     neo-async "^2.6.0"
     optimist "^0.6.1"
@@ -7775,11 +7775,7 @@ negotiator@0.6.1:
   version "0.6.1"
   resolved "https://registry.yarnpkg.com/negotiator/-/negotiator-0.6.1.tgz#2b327184e8992101177b28563fb5e7102acd0ca9"
 
-neo-async@^2.5.0:
-  version "2.6.0"
-  resolved "https://registry.yarnpkg.com/neo-async/-/neo-async-2.6.0.tgz#b9d15e4d71c6762908654b5183ed38b753340835"
-
-neo-async@^2.6.0:
+neo-async@^2.5.0, neo-async@^2.6.0:
   version "2.6.1"
   resolved "https://registry.yarnpkg.com/neo-async/-/neo-async-2.6.1.tgz#ac27ada66167fa8849a6addd837f6b189ad2081c"
 
